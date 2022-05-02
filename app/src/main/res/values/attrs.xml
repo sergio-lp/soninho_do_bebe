@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="text" format="string" />
+    <attr name="image" format="reference" />
+
+    <declare-styleable name="SoundButton">
+        <attr name="text" />
+        <attr name="image" />
+    </declare-styleable>
+
+    <declare-styleable name="SelectorButton">
+        <attr name="text" />
+        <attr name="image" />
+    </declare-styleable>
+
+    <declare-styleable name="PlayerControl">
+        <attr name="text" />
+        <attr name="id" format="integer" />
+        <attr name="volume" format="integer" />
+    </declare-styleable>
+</resources>

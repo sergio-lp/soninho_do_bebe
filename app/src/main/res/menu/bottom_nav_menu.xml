@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_sounds"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="@string/fragment_sounds" />
+
+    <item
+        android:id="@+id/navigation_premium"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/fragment_premium" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/fragment_settings" />
+
+</menu>

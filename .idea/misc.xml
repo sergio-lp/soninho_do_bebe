@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/bottom_nav_item.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/button_circular_background.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/circle.xml" value="0.2795" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.265" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/drawable/playerbar_background.xml" value="0.2795" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout-v23/player_control.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/activity_main.xml" value="0.2857789855072464" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/fragment_dashboard.xml" value="0.3625" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/fragment_notifications.xml" value="0.3625" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/fragment_sounds.xml" value="0.25" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/player_control.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/selector_button.xml" value="0.3625" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/layout/sound_button.xml" value="0.3625" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/sergi/AndroidStudioProjects/soninhodobebe/app/src/main/res/xml/rain_water_map.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

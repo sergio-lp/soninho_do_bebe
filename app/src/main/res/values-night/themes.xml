@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.SoninhoDoBebê" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondaryDarkColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryDarkColor</item>
+        <item name="colorOnSecondary">@color/secondaryTextColor</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorAccent">#1B1D30</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#181929</item>
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:windowBackground">#181929</item>
+
+    </style>
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorSurface">#181929</item>
+        <item name="colorSurfaceVariant">@color/secondaryDarkColor</item>
+        <item name="colorOnSurface">@color/white</item>
+    </style>
+
+    <style name="CardTheme">
+        <item name="android:textColor">@color/white</item>
+        <item name="cardBackgroundColor">@color/secondaryDarkColor</item>
+        <item name="backgroundColor">@color/secondaryDarkColor</item>
+        <item name="colorContainer">@color/secondaryDarkColor</item>
+        <item name="colorOnContainer">#FFF</item>
+        <item name="tint">#FFF</item>
+    </style>
+
+    <style name="IconsTheme">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="Seekbar">
+        <item name="android:thumbTint">@color/secondaryDarkColor</item>
+        <item name="android:progressTint">@color/secondaryDarkColor</item>
+    </style>
+</resources>

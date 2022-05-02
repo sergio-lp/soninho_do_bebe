@@ -1,0 +1,48 @@
+<resources>
+    <!-- TODO: Chaves e keys -->
+    <string name="AD_MOB_KEY_MANIFEST">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ADB_MOD_KEY_ACTIVITY">ca-app-pub-3940256099942544/3347511713</string>
+
+
+    <string name="app_name">Soninho do Bebê</string>
+    <string name="error_message">Oh no! An error has occurred.</string>
+    <string name="contact_button">Contact</string>
+    <string name="support_mail_address">suporte@email.com</string>
+    <string name="support_mail_title">Baby Sleep - Support</string>
+    <string name="fragment_sounds">Sounds</string>
+    <string name="fragment_premium">Be Premium</string>
+    <string name="fragment_settings">Settings</string>
+    <string name="ten_minutes">10 minutes</string>
+    <string name="thirty_minutes">30 minutes</string>
+    <string name="one_hour">One hour</string>
+    <string name="custom_timer">Custom timer</string>
+    <string name="timer_template">Timer: %1$s</string>
+    <string name="hour_template">%1$s:%2$s:%3$s</string>
+    <string name="TIME_PICKER_TAG">TIME_PICKER</string>
+    <string name="timer_select">Select hour and minute for the timer</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="timer_change_message">Are you sure you want to cancel the current timer and start a new one?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sound_id_template">Sound: %1$d</string>
+
+    <array name="sound_groups">
+        <item>Rain and water</item>
+        <item>Nature</item>
+    </array>
+    
+    <array name="sounds_rain_water">
+        <item>Light rain</item>
+        <item>Heavy rain</item>
+        <item>Thunderstorm</item>
+        <item>Ocean</item>
+    </array>
+
+    <array name="sounds_nature">
+        <item>Leaves</item>
+        <item>Owl</item>
+    </array>
+
+
+
+</resources>
